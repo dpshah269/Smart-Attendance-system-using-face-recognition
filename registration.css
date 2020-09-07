@@ -1,0 +1,32 @@
+h3{
+  font-family: serif; 
+  font-size: 25pt;         
+  font-style: normal; 
+  font-weight: bold; 
+  color: darkslategray;
+  text-align: center; 
+  text-decoration: underline
+}
+
+table{
+  font-family: Calibri; 
+  color:white; 
+  font-size: 11pt; 
+  font-style: normal;
+  font-weight: bold;
+  text-align:; 
+  background-color: cadetblue; 
+  border-collapse: collapse; 
+  border: 2px solid navy
+}
+table.inner{
+  border: 0px;
+}
+
+body
+{
+  background-image: url('images4.jpg');
+  background-repeat: no-repeat;
+  background-position: 50%;
+  background-size: 200%;
+}

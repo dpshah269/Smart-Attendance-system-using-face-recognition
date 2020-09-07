@@ -1,0 +1,40 @@
+body
+{
+	background-image: url('pic10.jpg');
+	background-repeat: no-repeat;
+	background-position: 50%;
+}
+
+table
+{
+	text-align:;
+	background-color: red;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: calibri;
+	padding-top: 10px;
+	margin-top: 10%;
+	height: 300px;
+}
+
+#a
+{
+	text-align: center;
+	font-size: 25pt;
+}
+
+#b
+{
+	text-align: right;
+}
+
+#c
+{
+	text-align: right;
+}
+
+#e
+{
+	text-align: right;
+	padding-right: 60pt;
+}
